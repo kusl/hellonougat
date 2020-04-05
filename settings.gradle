@@ -1,0 +1,2 @@
+rootProject.name='HelloNougat'
+include ':app'
